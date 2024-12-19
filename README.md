@@ -56,8 +56,7 @@
 - Развивать опыт работы с **CI/CD** и улучшать эффективность автоматизированных процессов.
 ---
 ### 🚀 Примеры моих работ
-
-### 📝 **Тест-кейсы и документация**  
 - **[Тест-кейсы для веб-приложения (Google Sheets)](https://docs.google.com/spreadsheets/d/1DVDJjnw1_fS1kWyPoZMvyX0hmNOl5vteCKX_bUQsQhI/edit?usp=sharing)**  
-- **[Чек-листы](https://github.com/CodeInspector1/QA_Checklists.git)**   
+- **[Чек-листы](https://github.com/CodeInspector1/QA_Checklists.git)**
+- **[Коллекция Postman](https://github.com/CodeInspector1/Api_test.git)**
 ---
