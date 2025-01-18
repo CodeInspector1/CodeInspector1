@@ -2,7 +2,7 @@
   <img src="https://i.giphy.com/coxQHKASG60HrHtvkt.webp" alt="Приветственное изображение" width="100%" />
 </p>
 <h1 align="center">Всем привет, я Егор 👋</h1>
-<h3 align="center">Junior+ QA Manual / Automation</h3>
+<h3 align="center"> QA Manual / Automation</h3>
 
 ---
 
